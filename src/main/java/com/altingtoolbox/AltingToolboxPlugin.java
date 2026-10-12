@@ -41,8 +41,7 @@ import org.slf4j.LoggerFactory;
 @PluginDescriptor(
 	name = "Alting Toolbox",
 	description = "Dims the screen and alerts you to boosts, health, prayer, poison protection, cannon upkeep and drops",
-	tags = {"alt", "cannon", "combat", "notifications", "loot"},
-	enabledByDefault = false
+	tags = {"alt", "cannon", "combat", "notifications", "loot"}
 )
 public class AltingToolboxPlugin extends Plugin
 {
